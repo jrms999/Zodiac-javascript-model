@@ -1,0 +1,11 @@
+* {
+	text-align: center;
+	background-color: cyan;
+}
+
+.hiddenDiv {
+	display: none;
+}
+
+.displayInfo {
+	display: block;
